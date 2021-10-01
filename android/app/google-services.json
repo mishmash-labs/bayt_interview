@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "64292097351",
+    "project_id": "bayt-ab375",
+    "storage_bucket": "bayt-ab375.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:64292097351:android:05291484c83bd645389062",
+        "android_client_info": {
+          "package_name": "com.mishmash.phoenix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "64292097351-ql0ga5cd5ke3n95okgrojs72pn203enq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFZdKFCQSLYPsLbSoioOJgjQCRmtJgN_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "64292097351-ql0ga5cd5ke3n95okgrojs72pn203enq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
