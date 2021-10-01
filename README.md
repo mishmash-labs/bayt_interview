@@ -1,16 +1,44 @@
 # bayt
 
-A new Flutter project.
+App made for Bayt job application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Create a Flutter app that covers the following items:
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+1.    Login/Logout (Using Firebase).
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+2.    Generic Error handler (Intercepter).
+
+3.    Listing & Cluster page.
+
+a.    Filters.
+
+b.    Search.
+
+c.     Sorting.
+
+d.    Pagination.
+
+e.    Multilingual.
+
+f.      Saved searches.
+
+1.    Create a generic widget in the footer to navigate other pages like my account, home, checkout (Tab bar).
+
+2.    Generate multi apps serving the same logic but different look and feel (Colors and logo) based on the tenant.
+
+ 
+
+Important points:
+
+1.    Share your code in ZIP format.
+
+2.    Generate APK file.
+
+3.    Use any design you want.
+
+4.    Make sure the app will work on all screen sizes/devices.
+
+5.    The source code should be clean, from files/folders structures, extendable and maintainable.
