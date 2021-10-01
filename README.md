@@ -2,7 +2,7 @@
 
 App made for Bayt job application.
 
-## Getting Started
+## Requirements
 
 Create a Flutter app that covers the following items:
 
