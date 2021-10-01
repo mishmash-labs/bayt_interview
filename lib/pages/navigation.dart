@@ -27,29 +27,29 @@ class NavPage extends StatelessWidget {
         controller: navWatcher.pageController,
         children: _pages,
       ),
-      persistentFooterButtons: <Widget>[
-        Row(
-          mainAxisAlignment: MainAxisAlignment.spaceBetween,
-          children: <Widget>[
-            MyTabButton(
-              index: 0,
-              label: translate(Keys.home),
-              navWatcher: navWatcher,
-            ),
-            MyTabButton(
-              index: 1,
-              label: translate(Keys.checkout),
-              navWatcher: navWatcher,
-            ),
-            MyTabButton(
-              index: 2,
-              label: translate(Keys.settings),
-              navWatcher: navWatcher,
-            ),
-          ],
-        )
-      ],
-      // bottomNavigationBar: BottomNavBar(navWatcher: navWatcher),
+      // persistentFooterButtons: <Widget>[
+      //   Row(
+      //     mainAxisAlignment: MainAxisAlignment.spaceBetween,
+      //     children: <Widget>[
+      //       MyTabButton(
+      //         index: 0,
+      //         label: translate(Keys.home),
+      //         navWatcher: navWatcher,
+      //       ),
+      //       MyTabButton(
+      //         index: 1,
+      //         label: translate(Keys.checkout),
+      //         navWatcher: navWatcher,
+      //       ),
+      //       MyTabButton(
+      //         index: 2,
+      //         label: translate(Keys.settings),
+      //         navWatcher: navWatcher,
+      //       ),
+      //     ],
+      //   )
+      // ],
+      bottomNavigationBar: BottomNavBar(navWatcher: navWatcher),
     );
   }
 }
